@@ -1,2 +1,4 @@
 # driver_need_data_enter_app
-This mobile app develop from flutter using dart language. This app keep data from diver trip details day by day and show thee history and total hours of work and total kilometers run
+Dart was used to develop this mobile application from Flutter. This app records daily trip data and displays the history, total work hours, and total distance travelled.
+
+
